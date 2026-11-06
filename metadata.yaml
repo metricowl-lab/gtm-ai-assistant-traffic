@@ -1,0 +1,5 @@
+homepage: "https://www.metricowl.co.uk/gtm-templates"
+documentation: "https://github.com/metricowl-lab/gtm-ai-assistant-traffic#readme"
+versions:
+  - sha: 658d7293dd238d0f8fa02ed5ca61dc7cd5c20b0d
+    changeNotes: Initial release.
