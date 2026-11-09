@@ -1,5 +1,10 @@
 homepage: "https://www.metricowl.co.uk/gtm-templates"
 documentation: "https://github.com/metricowl-lab/gtm-ai-assistant-traffic#readme"
 versions:
+  - sha: 7e4329e293b71c634b5d8ce1b20a0c194140c185
+    changeNotes: |-
+      Template name now starts with Metric Owl and says whether it's a tag or a variable.
+      Description links to the documentation and support page.
+      Licence copyright line filled in.
   - sha: 658d7293dd238d0f8fa02ed5ca61dc7cd5c20b0d
     changeNotes: Initial release.
